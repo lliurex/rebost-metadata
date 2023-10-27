@@ -1,0 +1,5 @@
+rebost-metadata (0.1) jammy; urgency=medium
+
+  * Split from rebost-data
+
+ -- Juanma1980 <juanma1980@gmail.com>  Sun, 05 Dec 2021 15:08:16 +0200
