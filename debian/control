@@ -10,6 +10,7 @@ Homepage: https://github.com/lliurex/rebost
 Package: rebost-metadata
 Architecture: all
 Depends: ${misc:Depends}, ${python3:Depends}
-Breaks: rebost-data(<0.4)
+Breaks: rebost-data(<<0.4)
+Recommends: rebost
 Description: Appstream metadata for Rebost
  Appstream metadata files
